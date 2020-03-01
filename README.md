@@ -1,4 +1,4 @@
-# IoT Device to Count People
+# IoT Device to Count People (Open Hardware)
 Hardware designed to count number of people based on number of mobile phones.
 
 <h4>Technologies:</h4>
@@ -11,3 +11,8 @@ Hardware designed to count number of people based on number of mobile phones.
 
 <h4>Screenshot</h4>
 <img src="https://github.com/Waelson/count-people-iot/blob/master/device_without_enclosure.png">
+Image 1: Device without enclosure
+<br/>
+<br/>
+<img src="https://github.com/Waelson/count-people-iot/blob/master/dashboard.png">
+Image 1: Dashboard
