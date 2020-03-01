@@ -9,5 +9,5 @@ Hardware designed to count number of people based on number of mobile phones.
   <li>PCB designed on Eagle</li>
 </ul>
 
-<h4>Screenshop</h4>
+<h4>Screenshot</h4>
 <img src="https://github.com/Waelson/count-people-iot/blob/master/device_without_enclosure.png">
