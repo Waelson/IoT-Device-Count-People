@@ -15,4 +15,8 @@ Image 1: Device without enclosure
 <br/>
 <br/>
 <img src="https://github.com/Waelson/count-people-iot/blob/master/dashboard.png">
-Image 1: Dashboard
+Image 2: Dashboard
+<br/>
+<br/>
+<img src="https://github.com/Waelson/count-people-iot/blob/master/eagle_board.png">
+Image 3: Eagle board
