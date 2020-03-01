@@ -20,3 +20,8 @@ Image 2: Dashboard
 <br/>
 <img src="https://github.com/Waelson/count-people-iot/blob/master/eagle_board.png">
 Image 3: Eagle board
+<br/>
+<br/>
+<img src="https://github.com/Waelson/count-people-iot/blob/master/eagle_schematic.png">
+Image 4: Eagle schematic
+
